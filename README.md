@@ -1,1 +1,1 @@
-# transformer
+# This is ML@B fall 2024 LLM focus group session 1: transformers
